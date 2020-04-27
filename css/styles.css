@@ -29,7 +29,7 @@ body {
   background-size: cover;
   cursor: pointer;
   position: absolute;
-  animation: hvr-buzz-out 1.8s linear 5;
+  animation: hvr-buzz-out 1.8s linear 2;
   perspective: 150rem;
 }
 
