@@ -29,7 +29,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: hvr-buzz-out 1.8s linear infinite;
+  animation: hvr-buzz-out 1.8s linear 1;
 }
 
 .quote {
